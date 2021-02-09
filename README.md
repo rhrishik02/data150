@@ -1,4 +1,4 @@
 # data150
 ## Informal Responses 
 
-[Blumenburg response](https://github.com/rhrishik02/data150/blob/main/blumenstock.md)
+[Blumenburg response](https://rhrishik02.github.io/data150/blumenstock.md)

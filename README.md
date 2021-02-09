@@ -1,4 +1,4 @@
 # data150
 ## Informal Responses 
 
-[Blumenburg response](youtube.com) 
+[Blumenburg response](https://rhrishik02.github.io/data150/blumenstock.md) 

@@ -3,6 +3,7 @@
 Sen describes development as a process of expanding freedoms that people can enjoy. He makes sure to clarify that freedom is the vehicle to achieve development and describes manifestations of freedom that can contribute to development. Specifically, he mentions the rise of personal incomes, industrialization, and GNP growth as means to expanding freedoms. 
 
 2. Is this an expansive view or narrower view of development?
+
 This is an expansive view of development as Sen points out that growth of GNP, rise of personal incomes, and industrialization are narrower views of development. This es that the expansive view of development requires expanding freedoms at every level rather than targeting specific economic or social means. 
 
 3. What are some forms of unfreedom?

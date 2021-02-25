@@ -1,3 +1,4 @@
+
 Topic: Poverty Assessment and Analysis
 
 Article 1: https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0401
@@ -12,3 +13,7 @@ Targeting poverty through quantifiable and analytical means is being addressed b
 No poverty, Industry/Innovation/Infrastructure, and Sustainable Cities and Communities are all sustainable development goals that are related to the article. If human population growth can be better understood, development methods for reducing poverty, effective infrastructure usage, and maintaining living standards in cities and communities can be achieved. 
 
 The authors sample census data from 32 low and middle income countries in 4 regions around the world at an average spatial resolution of 100 km^2 or below. In their analysis, they used intensity of night-time lights, energy productivity of plants, topographic elevation and slope, climatic factors, type of land cover and presence/absence of roads, water features, human settlements and urban areas, protected areas, and locations of points of interest (POIs) and facilities such as health centres and schools as predictive covariates of population growth. 
+
+The authors employ random forest-based population models to conduct their analysis. They describe RF’s as a non-parametric, nonlinear statistical method that falls within a category of machine-learning methods known as ‘ensemble methods’. Ensemble methods take individual decision trees that are considered ‘weak learners’ and combine them to create a ‘strong learner’.
+
+The scientists are seeking to answer the question, “What factors correlate and drive human population distributions in low and middle income countries?”

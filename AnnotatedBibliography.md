@@ -16,6 +16,8 @@ The authors sample census data from 32 low and middle income countries in 4 regi
 
 The authors employ random forest-based population models to conduct their analysis. They describe RF’s as a non-parametric, nonlinear statistical method that falls within a category of machine-learning methods known as ‘ensemble methods’. Ensemble methods take individual decision trees that are considered ‘weak learners’ and combine them to create a ‘strong learner’.
 
+The authors are seeking to find a relationship between geographic factors and human population densities. Human population densities are an important pattern for scientists to understand as they provide insight concerning human development through predicting and alleviating poverty. 
+
 The scientists are seeking to answer the question, “What factors correlate and drive human population distributions in low and middle income countries?”
 
 Article 2: https://royalsocietypublishing.org/doi/full/10.1098/rsif.2016.0690
@@ -25,3 +27,10 @@ Authors: Jessica E. Steele, Pål Roe Sundsøy, Carla Pezzulo, Victor A. Alegana,
 This article seeks to find a modern and more effective method of mapping poverty by taking advantage of phone and satellite data. In this study, the authors base their claim on the idea that current metrics of poverty are predicated on outdated census data, and instead employ data science techniques using commonly available public and private data from mobile phones and satellites in hopes of providing insight into the spatial distribution of poverty. By using new techniques to update the accuracy of poverty maps, it becomes possible to to understand the causes of poverty as well as methods of poverty alleviation for development purposes. Specifically, the authors use remote sensing and geographic information system (RS) data as well as call detail records (CDR) to accurately map poverty. Poverty mapping is an integral part of poverty assessment and analysis as it allows scientists to accurately identify what exact areas or regions will be affected by lack of resources while also providing a streamlined framework for allievations concerning development purposes. Conclusively, the researchers successfully used RS and CDR data to compile poverty maps with significant accuracy as their models were able to successfully produce high-resolution maps that were based on various data factors. 
 
 Based on Sen’s definition of development as freedoms and the mitigation of unfreedoms, this article relates to the idea of alleviating poverty as an unfreedom through increased awareness and knowledge of poverty as a result of compiling poverty maps using RS and CDR data. By having access to modern data that can be updated in real time as opposed to census data, poverty mapping from RS and CDR data will prove to be a valuable tool that can be used for efficient development purposes and alleviation. 
+
+Mapping poverty in hopes of providing effective methods for poverty reduction is a development dimension addressed in this article. If poverty is mapped effectively, there is a huge upside potential for scientists and development experts to provide methods of alleviation and resource management in an extremely efficient manner. In addition, using data that can be accessed and updated at any time proves to be vital as it allows for the process to be streamlined and accurate at every level. 
+
+ 
+
+
+

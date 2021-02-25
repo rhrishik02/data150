@@ -1,5 +1,6 @@
 
 Topic: Poverty Assessment and Analysis
+
 Article 1: https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0401
 Authors: Jeremiah J. Nieves, Forrest R. Stevens, Andrea E. Gaughan, Catherine Linard, Alessandro Sorichetta, Graeme Hornby, Nirav N. Patel and Andrew J. Tatem
 	

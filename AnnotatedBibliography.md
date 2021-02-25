@@ -1,4 +1,3 @@
-
 Topic: Poverty Assessment and Analysis
 
 Article 1: https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0401
@@ -8,5 +7,8 @@ This article describes the drivers and correlates of human population distributi
 
 This article relates to Sen’s definition of freedom by describing a solution for a removal of a major unfreedom which is poverty. In this instance, an analysis and potential solution is depicted to better understand and predict poverty through human population distributions using data science techniques. Sen says that the removal of major sources of unfreedoms is crucial for development and understanding how various geographical factors contribute to human distribution is conducive to that goal of mitigating an unfreedom and promoting development. 
 
+Targeting poverty through quantifiable and analytical means is being addressed by the authors research. This is an important dimension of human development as 9.2% of the world is in extreme poverty while a significantly larger portion lives in need of at least some basic necessities. By better understanding factors that contribute to human population growth, it becomes easier to identify development implementation for the future.
 
+No poverty, Industry/Innovation/Infrastructure, and Sustainable Cities and Communities are all sustainable development goals that are related to the article. If human population growth can be better understood, development methods for reducing poverty, effective infrastructure usage, and maintaining living standards in cities and communities can be achieved. 
 
+The authors sample census data from 32 low and middle income countries in 4 regions around the world at an average spatial resolution of 100 km^2 or below. In their analysis, they used intensity of night-time lights, energy productivity of plants, topographic elevation and slope, climatic factors, type of land cover and presence/absence of roads, water features, human settlements and urban areas, protected areas, and locations of points of interest (POIs) and facilities such as health centres and schools as predictive covariates of population growth. 

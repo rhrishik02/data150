@@ -30,6 +30,9 @@ Based on Sen’s definition of development as freedoms and the mitigation of unf
 
 Mapping poverty in hopes of providing effective methods for poverty reduction is a development dimension addressed in this article. If poverty is mapped effectively, there is a huge upside potential for scientists and development experts to provide methods of alleviation and resource management in an extremely efficient manner. In addition, using data that can be accessed and updated at any time proves to be vital as it allows for the process to be streamlined and accurate at every level. 
 
+No poverty is a sustainable development goal addressed by the article. The authors of the article cite this SDG and hope that their research can support the eradication of poverty. In order to do this, information is necessary to determine where poverty occurs and this can be made possible through the compilation of poverty maps using the RS and CDR data. 
+
+
  
 
 

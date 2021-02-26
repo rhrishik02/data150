@@ -1,4 +1,7 @@
+
 Topic: Poverty Assessment and Analysis
+
+Word Count: ~2500
 
 Article 1: https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0401
 Authors: Jeremiah J. Nieves, Forrest R. Stevens, Andrea E. Gaughan, Catherine Linard, Alessandro Sorichetta, Graeme Hornby, Nirav N. Patel and Andrew J. Tatem
@@ -58,8 +61,26 @@ The authors used a variety of data science techniques to create an accurate data
 
 The authors are investigating how poverty and different economic measures like consumption can be assessed in a data-lacking zone. These dimensions of human development are vital for understanding how poverty can be measured and alleviated.
 
-The scientists are seeking to answer the question “How were poverty and other economic factors measured in a region with relatively no existing data?”
+The scientists are seeking to answer the question “How were poverty and other economic factors measured in a country like Somalia with relatively no existing usable data?”
 
-Article 4:
+Article 4: https://openknowledge.worldbank.org/handle/10986/31190
+
+Authors: Utz Pape, Luca Parisotto
+This article attempts to describe the design and analysis of the Sudan High Frequency Survey. Accurately depicting economic factors and poverty in Sudan was extremely difficult as a result of the civil conflict. Thus, the high frequency survey attempts to overcome this challenge in a variety of ways including technological and methodological innovations to establish a reliable system of data collection and obtain valid poverty estimates. Accurately assessing and analyzing poverty in a conflict-ridden region like Sudan is not only difficult but crucial in determining how development can be achieved. Having access to information regarding poverty and economic factors allows scientists to quickly and efficiently allocate resources and other means of poverty alleviation. 
 
 
+This article relates to Sen’s definition of through evaluations and limiting unfreedoms (poverty). The high frequency survey attempts to evaluate various economic, political, and geographical factors in hopes of assessing poverty. This allows scientists to better understand what methods of development will be the most effective in combating poverty.
+
+Poverty and evaluative measures are development dimensions expressed in the article. The survey hopes to use numerous methods of evaluation for these factors in hopes of analyzing and assessing the extent to which poverty afflicts individuals in the country, especially amidst a civil conflict. 
+
+No poverty, and Industry/Innovation/Infrastructure are SDGs in relation to the article as the survey attempts to quantify these in an area where compiling data to do so is already difficult. 
+
+Existing spatial data-sets and custom‐derived spatial  data  with  geo‐referenced  poverty  estimates were used to obtain the estimates produced by the survey. 
+
+The survey used an expansion of cellular networks in Sudan to build a near-real time monitoring system where data uploaded daily to a dedicated  server and checked for consistency. In addition, it used a variety of methods and techniques to produce accurate results. First, poverty was measured using a standardized methodology where a welfare measure was compared to a preexisting poverty line. Consumption was the welfare measure chosen to compare, and thus the researchers had to use different techniques to obtain a consumption number. Then, a poverty line was calculated using a variety of old and new data in tandem to compare to consumption. Ultimately, the survey employed a method of within‐survey imputation, but instead of imputing the totality of consumption in certain areas based on data  from other areas it imputed a randomly different  fraction of consumption across all enumeration areas covered in the survey.
+
+The authors are investigating how poverty can be estimated in Sudan. This human development pattern of poverty is important in determining how poverty is distributed, especially in a war-torn country like Sudan.
+
+The scientists are hoping to answer the question “How were poverty and other economic factors measured in a post-conflict country like Sudan where there is little access to reliable data?”
+
+I think that South Asia or Africa are ideal regions to study poverty assessment and analysis as data in these regions is hard to obtain and thus development implementation is difficult to quantify. However, these regions are also heavily afflicted by poverty so they are in the most need of poverty alleviation and development. 

@@ -66,6 +66,8 @@ The scientists are seeking to answer the question “How were poverty and other 
 Article 4: https://openknowledge.worldbank.org/handle/10986/31190
 
 Authors: Utz Pape, Luca Parisotto
+
+
 This article attempts to describe the design and analysis of the Sudan High Frequency Survey. Accurately depicting economic factors and poverty in Sudan was extremely difficult as a result of the civil conflict. Thus, the high frequency survey attempts to overcome this challenge in a variety of ways including technological and methodological innovations to establish a reliable system of data collection and obtain valid poverty estimates. Accurately assessing and analyzing poverty in a conflict-ridden region like Sudan is not only difficult but crucial in determining how development can be achieved. Having access to information regarding poverty and economic factors allows scientists to quickly and efficiently allocate resources and other means of poverty alleviation. 
 
 

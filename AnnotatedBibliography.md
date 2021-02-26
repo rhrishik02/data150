@@ -1,4 +1,3 @@
-
 Topic: Poverty Assessment and Analysis
 
 Article 1: https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0401
@@ -36,7 +35,31 @@ The authors employ three primary sources of data as well as other secondary sour
 
 The authors first had to identify a set of predictors that were most suitable for modelling the 3 datasets for poverty. To do this, they employed non-spatial generalized linear models that were trained on 80% of randomly selected data to prevent overfitting. Then, to generate the actual poverty mapping, they used the models from the previous step through hierarchical Bayesian geostatistical models (BGMs) to predict the poverty metrics. The authors chose BGMs as they offer several advantages including straightforwardly imputing missing data and estimating uncertainty in the predictions as a distribution around each estimate.
 
-The authors are investigating how poverty is distributed using mobile phone data. The human development dimension of poverty and its implications specifically are crucial to understand poverty alleviation is to be achieved.
+The authors are investigating how poverty is distributed using mobile phone data. The human development dimension of poverty and its implications specifically are crucial to understand if poverty alleviation is to be achieved.
 
 The scientific question the authors are trying to answer is “Can mobile phone and satellite data be used to accurately map poverty?”
+
+Article 3: https://openknowledge.worldbank.org/bitstream/handle/10986/31267/WPS8735.pdf?sequence=1&isAllowed=y
+
+Authors: Utz Pape, Philip Wollburg
+
+Readily available data in Somalia is extremely deprived, thus making any statistical calculations or estimates of poverty very difficult. As a result, the World Bank implemented the second wave of the Somali High Frequency Survey in hopes of estimating national poverty indicators. This article explains how the survey overcomes the lack of statistical infrastructure and specific insecurity in Somalia through methodological and technological adaptations in four areas. Primarily, geospatial techniques and high-resolution imagery were used to model the spatial population distribution, build a probability-based population sampling frame, and generate enumeration areas to overcome the lack of a recent population census. Second, the survey adapted logistical arrangements, sampling strategy using micro-listing, and questionnaire design to limit time on the ground based on the Rapid Consumption Methodology. Third, correlates were derived from satellite imagery and other geospatial data to estimate poverty. Fourth, special sampling techniques were employed to capture the non stationary nature of the nomadic population. In an area like Somalia where infrastructure and means to collect data is lacking, it becomes ever harder to measure indicators that shed light on the status of poverty in hopes of development purposes. Assessing and analyzing poverty is crucial to implement development and that process is rooted in understanding/collecting the data. Scientists must find innovative ways and create alternatives of collecting data when faced with challenges like the lack of indicators. Thus, the survey proposes to overcome that challenge in the variety of ways described above and understanding how the survey does so is vital for development. 
+
+Sen’s definition of development involves roles of freedom as well as evaluative systems for development. By using the survey to compile and gain a better understanding of data where there is a lack of statistical infrastructure, it becomes possible for scientists and development experts to effectively evaluate poverty and means of poverty reduction. 
+
+Poverty and evaluative measures (economic, geographic etc.) are dimensions that are measured in the article. The survey hopes to glean an accurate measure of these various factors in hopes of accurate analysis of poverty for development implementation .
+
+No poverty, Good Health/Wellbeing, and Industry/Innovation/Infrastructure are being addressed in this article as the aforementioned survey hopes to identify these factors in an otherwise data lacking landscape for the measurement of poverty. 
+
+
+The first Somali High Frequency Survey was used as a baseline data set for monitoring poverty and other key statistical indicators. In addition, GIS data sets like Pre‐war region boundaries;  (ii) IDP settlement boundaries;  (iii) Urban area boundaries;  (iv) Rural settlement boundaries;  (v) Security assessment access map were used to demarcate strata boundaries. Population estimates were derived from the 2015 World Pop data sets. Furthermore, data sets were created using a number of existing indicators like  ‘Visible Infrared Imaging Radiometer Suite’ (VIIRS) and Defense Meteorological  Satellite Program (DMSP) (satellite data) in hopes of accurately estimating various economic, geographic, population, and poverty numbers. 
+
+The authors used a variety of data science techniques to create an accurate data set in an otherwise statistically dry region in hopes of assessing poverty and other economic/geographical factors. They first used geospatial  techniques  and  high‐resolution  imagery to  model  the  spatial population distribution, build a probability‐based population sampling frame, and generate enumeration areas in an effort to overcome the lack of a recent  population  census. Then, logistical  arrangements,  sampling  strategy, and questionnaire design to limit time on the ground were adopted to ensure the safety for those who worked in the field. In addition, a consumption model was assigned to households in areas without a binding security and time constraint, with only the covariates of consumption administered to households in insecure areas to measure consumption and poverty. Ultimately, sampling was conducted using the aforementioned process, data was collected using the limited time on the ground method, the consumption aggregate was compiled, and an overview of poverty in the area was computed. 
+
+The authors are investigating how poverty and different economic measures like consumption can be assessed in a data-lacking zone. These dimensions of human development are vital for understanding how poverty can be measured and alleviated.
+
+The scientists are seeking to answer the question “How were poverty and other economic factors measured in a region with relatively no existing data?”
+
+Article 4:
+
 

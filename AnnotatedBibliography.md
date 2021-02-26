@@ -1,5 +1,6 @@
+Poverty Assessment and Analysis
 
-Topic: Poverty Assessment and Analysis
+By: Hrishik Rangaraju
 
 Word Count: ~2500
 

@@ -32,8 +32,11 @@ Mapping poverty in hopes of providing effective methods for poverty reduction is
 
 No poverty is a sustainable development goal addressed by the article. The authors of the article cite this SDG and hope that their research can support the eradication of poverty. In order to do this, information is necessary to determine where poverty occurs and this can be made possible through the compilation of poverty maps using the RS and CDR data. 
 
+The authors employ three primary sources of data as well as other secondary sources of data. First, they used three geographically referenced datasets representing asset, consumption and income-based measures of wellbeing in Bangladesh. Then, CDR, or call detail records, were generated from mobile phone metadata spanning four months using Bangladesh’s largest mobile phone network that covers 90% of the land and 99% of the population. CDR features range from metrics such as basic phone usage, top-up patterns, and social network to metrics of user mobility and handset usage. In addition, 25 raster and vector datasets were processed into remote sensing/geographic (RS) covariates at a spatial resolution of 1 km^2. These data acted as environmental and physical metrics that were likely to be associated with human welfare and included vegetation indices, night-time lights, climatic conditions, and distance to roads or major urban areas.
 
- 
+The authors first had to identify a set of predictors that were most suitable for modelling the 3 datasets for poverty. To do this, they employed non-spatial generalized linear models that were trained on 80% of randomly selected data to prevent overfitting. Then, to generate the actual poverty mapping, they used the models from the previous step through hierarchical Bayesian geostatistical models (BGMs) to predict the poverty metrics. The authors chose BGMs as they offer several advantages including straightforwardly imputing missing data and estimating uncertainty in the predictions as a distribution around each estimate.
 
+The authors are investigating how poverty is distributed using mobile phone data. The human development dimension of poverty and its implications specifically are crucial to understand poverty alleviation is to be achieved.
 
+The scientific question the authors are trying to answer is “Can mobile phone and satellite data be used to accurately map poverty?”
 

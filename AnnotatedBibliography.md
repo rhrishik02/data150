@@ -1,11 +1,10 @@
-Poverty Assessment and Analysis
 
-By: Hrishik Rangaraju
-
-Word Count: ~2500
+Topic: Poverty Assessment and Analysis
 
 Article 1: https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0401
 Authors: Jeremiah J. Nieves, Forrest R. Stevens, Andrea E. Gaughan, Catherine Linard, Alessandro Sorichetta, Graeme Hornby, Nirav N. Patel and Andrew J. Tatem
+
+Nieves Jeremiah J., Stevens Forrest R., Gaughan Andrea E., Linard Catherine, Sorichetta Alessandro, Hornby Graeme, Patel Nirav N. and Tatem Andrew J. 2017 “Examining the correlates and drivers of human population distributions across low- and middle-income countries” J. R. Soc. Interface.14
 	
 This article describes the drivers and correlates of human population distribution across low/middle income countries. Specifically, the article hypothesizes that geographic factors including climate, topography, and transportation links among others will have a significant correlation with human population distribution which in turn can shed light on poverty assessment and analysis as the UN predicted that human population growth would occur in significantly more impoverished areas across the world. The authors proceed to use different data analysis techniques using machine learning algorithms to quantify the importance of these factors across 32 low and middle income countries. Poverty assessment and analysis becomes extremely complicated as it can involve every level of society ranging from internal factors such as local political and economic policy to global factors such as geography and international trade. Thus, using data science to analyze the influence of geographical factors in driving poverty through human population distributions becomes an attractive solution to understanding the fundamentals surrounding poverty analysis. After conducting each analysis, the authors concluded that urban areas and climatic/environmental factors were the most significant in predicting population density and thus allows for quantifiable analysis of poverty within regions. Their analysis sheds light on the identification of poverty by showing how variables like urbanization extent, elevation, resource proximity, crop/vegetation land cover, and more can drive population growth. Ultimately, if scientists can better understand these factors that contribute to population growth, high-resolution mapping of poverty and construction/preparation for future development scenarios can be achieved. 
 
@@ -25,7 +24,8 @@ The scientists are seeking to answer the question, “What factors correlate and
 
 Article 2: https://royalsocietypublishing.org/doi/full/10.1098/rsif.2016.0690
 
-Authors: Jessica E. Steele, Pål Roe Sundsøy, Carla Pezzulo, Victor A. Alegana, Tomas J. Bird, Joshua Blumenstock, Johannes Bjelland, Kenth Engø-Monsen, Yves-Alexandre de Montjoye, Asif M. Iqbal, Khandakar N. Hadiuzzaman, Xin Lu, Erik Wetter, Andrew J. Tatem and Linus Bengtsson 
+Steele Jessica E., Sundsøy Pål Roe, Pezzulo Carla, Alegana Victor A., Bird Tomas J., Blumenstock Joshua, Bjelland Johannes, Engø-Monsen Kenth, de Montjoye Yves-Alexandre, Iqbal Asif M., Hadiuzzaman Khandakar N., Lu Xin, Wetter Erik, Tatem Andrew J. and Bengtsson Linus 2017 “Mapping poverty using mobile phone and satellite data” J. R. Soc. Interface.142016069020160690
+
 
 This article seeks to find a modern and more effective method of mapping poverty by taking advantage of phone and satellite data. In this study, the authors base their claim on the idea that current metrics of poverty are predicated on outdated census data, and instead employ data science techniques using commonly available public and private data from mobile phones and satellites in hopes of providing insight into the spatial distribution of poverty. By using new techniques to update the accuracy of poverty maps, it becomes possible to to understand the causes of poverty as well as methods of poverty alleviation for development purposes. Specifically, the authors use remote sensing and geographic information system (RS) data as well as call detail records (CDR) to accurately map poverty. Poverty mapping is an integral part of poverty assessment and analysis as it allows scientists to accurately identify what exact areas or regions will be affected by lack of resources while also providing a streamlined framework for allievations concerning development purposes. Conclusively, the researchers successfully used RS and CDR data to compile poverty maps with significant accuracy as their models were able to successfully produce high-resolution maps that were based on various data factors. 
 
@@ -47,6 +47,8 @@ Article 3: https://openknowledge.worldbank.org/bitstream/handle/10986/31267/WPS8
 
 Authors: Utz Pape, Philip Wollburg
 
+Pape, Utz, and Philip Wollburg. "Estimation Of Poverty In Somalia Using Innovative Methodologies". 2019. World Bank, Washington, DC, doi:10.1596/1813-9450-8735
+
 Readily available data in Somalia is extremely deprived, thus making any statistical calculations or estimates of poverty very difficult. As a result, the World Bank implemented the second wave of the Somali High Frequency Survey in hopes of estimating national poverty indicators. This article explains how the survey overcomes the lack of statistical infrastructure and specific insecurity in Somalia through methodological and technological adaptations in four areas. Primarily, geospatial techniques and high-resolution imagery were used to model the spatial population distribution, build a probability-based population sampling frame, and generate enumeration areas to overcome the lack of a recent population census. Second, the survey adapted logistical arrangements, sampling strategy using micro-listing, and questionnaire design to limit time on the ground based on the Rapid Consumption Methodology. Third, correlates were derived from satellite imagery and other geospatial data to estimate poverty. Fourth, special sampling techniques were employed to capture the non stationary nature of the nomadic population. In an area like Somalia where infrastructure and means to collect data is lacking, it becomes ever harder to measure indicators that shed light on the status of poverty in hopes of development purposes. Assessing and analyzing poverty is crucial to implement development and that process is rooted in understanding/collecting the data. Scientists must find innovative ways and create alternatives of collecting data when faced with challenges like the lack of indicators. Thus, the survey proposes to overcome that challenge in the variety of ways described above and understanding how the survey does so is vital for development. 
 
 Sen’s definition of development involves roles of freedom as well as evaluative systems for development. By using the survey to compile and gain a better understanding of data where there is a lack of statistical infrastructure, it becomes possible for scientists and development experts to effectively evaluate poverty and means of poverty reduction. 
@@ -66,10 +68,9 @@ The scientists are seeking to answer the question “How were poverty and other 
 
 Article 4: https://openknowledge.worldbank.org/handle/10986/31190
 
+Pape, Utz, and Luca Parisotto. "Estimating Poverty In A Fragile Context: The High Frequency Survey In South Sudan". 2019. World Bank, Washington, DC, doi:10.1596/1813-9450-8722. Accessed 10 Mar 2021.
 
 Authors: Utz Pape, Luca Parisotto
-
-
 This article attempts to describe the design and analysis of the Sudan High Frequency Survey. Accurately depicting economic factors and poverty in Sudan was extremely difficult as a result of the civil conflict. Thus, the high frequency survey attempts to overcome this challenge in a variety of ways including technological and methodological innovations to establish a reliable system of data collection and obtain valid poverty estimates. Accurately assessing and analyzing poverty in a conflict-ridden region like Sudan is not only difficult but crucial in determining how development can be achieved. Having access to information regarding poverty and economic factors allows scientists to quickly and efficiently allocate resources and other means of poverty alleviation. 
 
 

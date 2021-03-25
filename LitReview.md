@@ -32,7 +32,7 @@ Unfortunately, no matter how much data is input into the supervised learning mod
 
 In essence, poverty mapping can be achieved in numerous innovative ways as a result of the ability of supervised learning models to be trained using currently available geospatial data sets as well as other input factors and employing machine learning algorithms to find relationships between attributes for poverty indication. Whether this is seen on an international scale like with the High Frequency Surveys or through individual researchers conducting studies, poverty mapping is crucial for the implementation of readily available solutions that can alleviate poverty. Though the literature on the subject matter is vast, it is constantly being updated as a result of the advent of Big Data. However, a major gap in this literature is in areas that are excluded from data input streams of Big Data. In an increasingly interconnected world, areas that are not particularly connected are difficult to contextualize let alone analyze. As more and more emphasis is placed on Big Data, these areas become much more difficult in nature to analyze as a result of their lack of statistical infrastructure.A central research question that poverty mapping will seek to answer is “What variations of poverty alleviation can be produced as a result of these compilations of poverty maps?”  
 
-Works Cited: 
+**Works Cited:** 
 
 Nieves Jeremiah J., Stevens Forrest R., Gaughan Andrea E., Linard Catherine, Sorichetta Alessandro, Hornby Graeme, Patel Nirav N. and Tatem Andrew J. 2017 “Examining the correlates and drivers of human population distributions across low- and middle-income countries” J. R. Soc. Interface.14
 

@@ -39,7 +39,7 @@ In essence, poverty mapping can be achieved in numerous innovative ways as a res
 
 *Edits: 
 
-Title, Methods
+Title, Methods, Complexity
 
 **Works Cited:** 
 

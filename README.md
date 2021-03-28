@@ -7,7 +7,7 @@
 
 [KitchinResponse](https://rhrishik02.github.io/data150/KitchinResponse.html)
 
-[LightningRound14Q] (https://rhrishik02.github.io/data150/LightningRound14Q.html)
+[LightningRound14Q](https://rhrishik02.github.io/data150/LightningRound14Q.html)
 
 ## Formal Responses 
 [Annotated Bibliography](https://rhrishik02.github.io/data150/AnnotatedBibliography.html)

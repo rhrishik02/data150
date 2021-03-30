@@ -9,6 +9,8 @@
 
 [LightningRound14Q](https://rhrishik02.github.io/data150/LightningRound14Q.html)
 
+[Assignment3Intro](https://rhrishik02.github.io/data150/Assignment3Intro.html)
+
 ## Formal Responses 
 [Annotated Bibliography](https://rhrishik02.github.io/data150/AnnotatedBibliography.html)
 

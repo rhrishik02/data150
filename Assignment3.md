@@ -1,4 +1,10 @@
+https://docs.google.com/document/d/1Yk8zBhUDFFNsz-MB_hCggw_eu5NEsw2s8BTlfd5KhAY/edit?usp=sharing
+
+*Google Doc with images - currently trying to get it formatted in this file*
+
+
 Word Count: ~1700
+
 
 Overview
 With poverty rampant on both global and local scales, reliable measurement and analysis becomes increasingly important. Unfortunately, traditional approaches to measuring poverty rely on outdated census data and data analysis techniques that are especially unreliable in low/middle income countries as they tend to lack necessary statistical infrastructure to conduct analyses. In recent years, scientists and researchers have turned to innovative approaches to measuring poverty and use newer-aged data science techniques to analyze indicators. The nature of identifiers and various measurements are still discussed among development experts within the research literature, ranging from construction of unidimensional and multidimensional indices to the use of monetary/nonmonetary metrics. 

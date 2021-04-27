@@ -19,6 +19,8 @@ To ensure accurate projections and resolutions, the raw CDR and RS data was proc
 
 
 Figure 1. Spatial structure of Voronoi polygons based on the configuration of mobile phone towers in Bangladesh. The zoom window shows the spatial detail of Dhaka. (Taken from section 2.1) 
+
+
 In “Estimation Of Poverty In Somalia Using Innovative Methodologies,” the researchers explain how the Somali High Frequency Survey (SHFS) was conducted and how it was used to estimate poverty in an otherwise data-deprived country. They first explain the rationale behind the sampling strategy used in the SHFS, then the data collection process, then the calculation of aggregate consumption, and finally the imputation of poverty in inaccessible areas. Data was collected using computer assisted personal interviews as this allowed for near-real time monitoring and quality control as a result of the large amount of instability in many regions. Consumption data was cleaned and then estimated based on food consumption, nonfood consumption, and consumption of durable assets. 
 
 ![image](https://user-images.githubusercontent.com/78430530/116168250-fbed3500-a6cf-11eb-8965-34f4b1531f6f.png)

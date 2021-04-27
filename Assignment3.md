@@ -1,6 +1,6 @@
 https://docs.google.com/document/d/1Yk8zBhUDFFNsz-MB_hCggw_eu5NEsw2s8BTlfd5KhAY/edit?usp=sharing
 
-*Full paper + images on this Google Doc; currently trying to get it formatted in this file*
+*Google doc of full paper for clarity*
 
 
 Word Count: ~1700

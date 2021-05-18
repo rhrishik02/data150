@@ -19,3 +19,5 @@
 [Assignment 3](https://rhrishik02.github.io/data150/Assignment3.html)
 
 [Presentation](https://rhrishik02.github.io/data150/Presentation.html)
+
+[Assignment 4b](https://rhrishik02.github.io/data150/Assignment4b.html)
